@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "SublimeLinter: Show README",
+        "command": "sl_addon_show_readmes"
+    },
+]
